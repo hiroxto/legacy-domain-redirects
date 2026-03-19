@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "subdomain-redirector",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-02-24",
+  "routes": [
+    {
+      "pattern": "swarm-checkin-regulation-checker.hiroxto.net/*",
+      "zone_name": "hiroxto.net"
+    }
+  ]
+}

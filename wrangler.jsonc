@@ -6,11 +6,11 @@
   "routes": [
     {
       "pattern": "swarm-checkin-regulation-checker.hiroxto.net",
-      "zone_name": "hiroxto.net"
+      "custom_domain": true
     },
     {
       "pattern": "fare-ticket-route-planning.hiroxto.net",
-      "zone_name": "hiroxto.net"
+      "custom_domain": true
     }
   ]
 }

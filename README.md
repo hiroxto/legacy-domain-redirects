@@ -1,4 +1,4 @@
-# subdomain-redirector
+# legacy-domain-redirects
 
 旧サブドメインを `https://www.hiroxto.net` 配下へ恒久リダイレクトするためのCloudflare Workers。
 

@@ -5,7 +5,11 @@
   "compatibility_date": "2026-02-24",
   "routes": [
     {
-      "pattern": "swarm-checkin-regulation-checker.hiroxto.net/*",
+      "pattern": "swarm-checkin-regulation-checker.hiroxto.net",
+      "zone_name": "hiroxto.net"
+    },
+    {
+      "pattern": "fare-ticket-route-planning.hiroxto.net",
       "zone_name": "hiroxto.net"
     }
   ]

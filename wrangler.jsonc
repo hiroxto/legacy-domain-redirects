@@ -11,6 +11,10 @@
     {
       "pattern": "fare-ticket-route-planning.hiroxto.net",
       "custom_domain": true
+    },
+    {
+      "pattern": "utils.hiroxto.net",
+      "custom_domain": true
     }
   ]
 }

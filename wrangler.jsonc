@@ -5,6 +5,10 @@
   "compatibility_date": "2026-02-24",
   "routes": [
     {
+      "pattern": "www.hiroxto.net",
+      "custom_domain": true
+    },
+    {
       "pattern": "swarm-checkin-regulation-checker.hiroxto.net",
       "custom_domain": true
     },

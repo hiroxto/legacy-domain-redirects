@@ -2,7 +2,7 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "legacy-domain-redirects",
   "main": "src/index.ts",
-  "compatibility_date": "2026-02-24",
+  "compatibility_date": "2026-11-03",
   "routes": [
     {
       "pattern": "www.hiroxto.net",
